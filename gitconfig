@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kevin.kotcherga@gmail.com
+	name = Kevin Kotcherga
